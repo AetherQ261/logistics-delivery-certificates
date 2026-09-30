@@ -1,0 +1,1 @@
+"""Shipment certificate example package."""
